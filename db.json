@@ -1,0 +1,172 @@
+{
+    "productos": [
+        {
+            "nombre": "Ramen De Pollo",
+            "precio": 3000,
+            "stock": 11
+        },
+        {
+            "nombre": "Arepas",
+            "precio": 2000,
+            "stock": 17
+        },
+        {
+            "nombre": "Control de televisor",
+            "precio": 13000,
+            "stock": 10
+        }
+    ],
+    "usuarios": [
+        {
+            "nombre": "Pedrito",
+            "correo": "pedrito@correo.com",
+            "edad": 20
+        },
+        {
+            "nombre": "Isabel",
+            "correo": "isabel@correo.com",
+            "edad": 21
+        },
+        {
+            "nombre": "Marcos",
+            "correo": "marco@correo.com",
+            "edad": 27
+        }
+    ],
+    "companias": [
+        {
+            "nombre": "Tech Solutions",
+            "sector": "Tecnologia",
+            "ciudad": "Medellin"
+        },
+        {
+            "nombre": "Comercializadora del Norte",
+            "sector": "Comercio",
+            "ciudad": "Bogota"
+        },
+        {
+            "nombre": "EcoVerde",
+            "sector": "Medio ambiente",
+            "ciudad": "Cali"
+        }
+    ],
+    "empleados": [
+        {
+            "nombre": "Carlos Ramirez",
+            "cargo": "Gerente",
+            "salario": 4500000
+        },
+        {
+            "nombre": "Laura Martinez",
+            "cargo": "Contadora",
+            "salario": 3200000
+        },
+        {
+            "nombre": "Andres Gomez",
+            "cargo": "Desarrollador",
+            "salario": 3800000
+        }
+    ],
+    "clientes": [
+        {
+            "nombre": "Juan Perez",
+            "telefono": "3001234567",
+            "direccion": "Calle 10 # 20-30"
+        },
+        {
+            "nombre": "Maria Lopez",
+            "telefono": "3109876543",
+            "direccion": "Carrera 45 # 12-18"
+        },
+        {
+            "nombre": "Pedro Sanchez",
+            "telefono": "3204567890",
+            "direccion": "Avenida 30 # 15-40"
+        }
+    ],
+    "proveedores": [
+        {
+            "nombre": "Distribuciones ABC",
+            "contacto": "Luis Torres",
+            "ciudad": "Medellin"
+        },
+        {
+            "nombre": "Suministros del Valle",
+            "contacto": "Ana Ruiz",
+            "ciudad": "Cali"
+        },
+        {
+            "nombre": "Importadora Central",
+            "contacto": "David Castro",
+            "ciudad": "Bogota"
+        }
+    ],
+    "libros": [
+        {
+            "titulo": "Cien años de soledad",
+            "autor": "Gabriel Garcia Marquez",
+            "anio": 1967
+        },
+        {
+            "titulo": "El principito",
+            "autor": "Antoine de Saint-Exupery",
+            "anio": 1943
+        },
+        {
+            "titulo": "Don Quijote de la Mancha",
+            "autor": "Miguel de Cervantes",
+            "anio": 1605
+        }
+    ],
+    "cursos": [
+        {
+            "nombre": "Programacion en Python",
+            "duracion": "40 horas",
+            "nivel": "Basico"
+        },
+        {
+            "nombre": "Desarrollo Web",
+            "duracion": "60 horas",
+            "nivel": "Intermedio"
+        },
+        {
+            "nombre": "Bases de Datos",
+            "duracion": "50 horas",
+            "nivel": "Avanzado"
+        }
+    ],
+    "vehículos": [
+        {
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "placa": "ABC123"
+        },
+        {
+            "marca": "Chevrolet",
+            "modelo": "Onix",
+            "placa": "DEF456"
+        },
+        {
+            "marca": "Mazda",
+            "modelo": "CX-5",
+            "placa": "GHI789"
+        }
+    ],
+    "pedidos": [
+        {
+            "descripcion": "Compra de computadores",
+            "total": 5500000,
+            "estado": "Entregado"
+        },
+        {
+            "descripcion": "Compra de escritorios",
+            "total": 1200000,
+            "estado": "Pendiente"
+        },
+        {
+            "descripcion": "Compra de impresoras",
+            "total": 2300000,
+            "estado": "En proceso"
+        }
+    ]
+}
